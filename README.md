@@ -22,6 +22,9 @@
   <a href="https://www.leetcode.com/sayantan_rookie" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sayantan_rookie" height="30" width="40" style="border: 2px solid #ddd; border-radius: 5px; padding: 5px;" /></a>
 </p>
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <h1 align="left">My Tech Stack:</h1>
 <p align="center">
   <h5 align="left">DevOps & Cloud</h5>
@@ -98,8 +101,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=say2hub&" alt="say2hub" /></p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=say2hub" alt="say2hub" />
-  </a>
-</p>
+
