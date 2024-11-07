@@ -1,5 +1,5 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)]
-<h1 align="center">Hola Guys!👋, I'm Sayantan Mukherjee</h1>
+<h1 align="center">Hola Guys👋, I'm Sayantan Mukherjee😊</h1>
 <h6 align="center">I'm a Passionate Individual working my ways through the world of science and technology. I'm Passionate about ML AND AI and currently exploring its wonders ❤️.</h6>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
