@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=say2hub&label=Profile%20views&color=0e75b6&style=flat" alt="say2hub" style="border: 2px solid #ddd; border-radius: 5px; padding: 5px;" />
 </p>
 
-- 🔭 I’m currently working on **Big Data Stock Price Sentiment Analysis**
+- 🔭 I’m currently working on ""Developing DSA and SQL Understanding on LeetCode""
 
 - 🌱 I’m currently learning **DevOps Machine Learning Cp AI**
 
