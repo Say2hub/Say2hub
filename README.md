@@ -1,7 +1,7 @@
-![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)<br>
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-# 💫 About Me:
+##  About Me:
 Hey Guys! I Hope you are doing fine 😄<br>Thank you for coming into my secret laboratory💻.<br><br>I'm a Tech Savvy Person , who is learning and exploring different dimension of tech products and services.<br><br>
 **SWE | Data Engineer | Analyst | Cloud Architect | AI Engineer**<br><br>PS: I love to be a musician during my free time :> 🎤🎹
 
