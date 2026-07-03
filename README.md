@@ -92,7 +92,7 @@
   </a>
 </p>
 
-<h2 align="left">Github Stats:</h2>
+<h2 align="left">Github Stats</h2>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=say2hub&show_icons=true&locale=en&layout=compact" alt="say2hub" />
 </p>
